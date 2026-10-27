@@ -1,0 +1,13 @@
+{
+  "spec_version": 1,
+  "process": {
+    "compiler": "pdflatex"
+  },
+  "texlive_version": 2023,
+  "sources": [
+    {
+      "filename": "main.tex",
+      "usage": "toplevel"
+    }
+  ]
+}
